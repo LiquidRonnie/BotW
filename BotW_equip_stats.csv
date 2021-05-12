@@ -1,0 +1,186 @@
+name,attack,defense
+ancient arrow,,
+ancient battle axe,30.0,0.0
+ancient battle axe+,45.0,0.0
+ancient battle axe++,60.0,0.0
+ancient bladesaw,55.0,0.0
+ancient bow,44.0,0.0
+ancient shield,0.0,70.0
+ancient short sword,40.0,0.0
+ancient spear,30.0,0.0
+arrow,,
+blizzard rod,10.0,0.0
+boat oar,14.0,0.0
+boko bat,6.0,0.0
+boko bow,4.0,0.0
+boko club,4.0,0.0
+boko shield,0.0,3.0
+boko spear,2.0,0.0
+bokoblin arm,5.0,0.0
+bomb arrow,,
+boomerang,8.0,0.0
+boulder breaker,60.0,0.0
+bow of light,100.0,0.0
+ceremonial trident,14.0,0.0
+cobble crusher,15.0,0.0
+daybreaker,0.0,48.0
+demon carver,40.0,0.0
+double axe,18.0,0.0
+dragon bone boko bow,24.0,0.0
+dragonbone boko bat,36.0,0.0
+dragonbone boko club,24.0,0.0
+dragonbone boko shield,0.0,25.0
+dragonbone boko spear,12.0,0.0
+dragonbone moblin club,45.0,0.0
+dragonbone moblin spear,15.0,0.0
+drillshaft,14.0,0.0
+duplex bow,14.0,0.0
+edge of duality,50.0,0.0
+eightfold blade,15.0,0.0
+eightfold longblade,32.0,0.0
+emblazoned shield,0.0,3.0
+enhanced lizal spear,12.0,0.0
+falcon bow,20.0,0.0
+farmer's pitchfork,7.0,0.0
+farming hoe,16.0,0.0
+feathered edge,15.0,0.0
+feathered spear,10.0,0.0
+fire arrow,,
+fire rod,10.0,0.0
+fisherman's shield,0.0,3.0
+fishing harpoon,8.0,0.0
+flameblade,24.0,0.0
+flamespear,24.0,0.0
+forest dweller's bow,15.0,0.0
+forest dweller's shield,0.0,30.0
+forest dweller's spear,11.0,0.0
+forest dweller's sword,22.0,0.0
+forked lizal spear,18.0,0.0
+frostblade,20.0,0.0
+frostspear,20.0,0.0
+gerudo scimitar,16.0,0.0
+gerudo shield,0.0,20.0
+gerudo spear,16.0,0.0
+giant boomerang,25.0,0.0
+golden bow,14.0,0.0
+golden claymore,28.0,0.0
+great eagle bow,28.0,0.0
+great flameblade,34.0,0.0
+great frostblade,30.0,0.0
+great thunderblade,32.0,0.0
+guardian shield,0.0,18.0
+guardian shield+,0.0,30.0
+guardian shield++,0.0,42.0
+guardian spear,10.0,0.0
+guardian spear+,15.0,0.0
+guardian spear++,20.0,0.0
+guardian sword,20.0,0.0
+guardian sword+,30.0,0.0
+guardian sword++,40.0,0.0
+hunter's shield,0.0,3.0
+hylian shield,0.0,90.0
+ice arrow,,
+ice rod,5.0,0.0
+iron sledgehammer,12.0,0.0
+kite shield,0.0,14.0
+knight's bow,26.0,0.0
+knight's broadsword,26.0,0.0
+knight's claymore,38.0,0.0
+knight's halberd,13.0,0.0
+knight's shield,0.0,40.0
+korok leaf,1.0,0.0
+lightning rod,5.0,0.0
+lightscale trident,22.0,0.0
+lizal boomerang,14.0,0.0
+lizal bow,14.0,0.0
+lizal forked boomerang,24.0,0.0
+lizal shield,0.0,15.0
+lizal spear,7.0,0.0
+lizal tri-boomerang,36.0,0.0
+lizalfos arm,12.0,0.0
+lynel bow,10.0,0.0
+lynel crusher,36.0,0.0
+lynel shield,0.0,30.0
+lynel spear,14.0,0.0
+lynel sword,24.0,0.0
+master sword,30.0,0.0
+meteor rod,10.0,0.0
+mighty lynel bow,20.0,0.0
+mighty lynel crusher,54.0,0.0
+mighty lynel shield,0.0,44.0
+mighty lynel spear,20.0,0.0
+mighty lynel sword,36.0,0.0
+moblin arm,15.0,0.0
+moblin club,9.0,0.0
+moblin spear,4.0,0.0
+moonlight scimitar,25.0,0.0
+one-hit obliterator,1000000000.0,0.0
+phrenic bow,10.0,0.0
+pot lid,0.0,1.0
+radiant shield,0.0,35.0
+reinforced lizal shield,0.0,22.0
+royal bow,38.0,0.0
+royal broadsword,36.0,0.0
+royal claymore,52.0,0.0
+royal guard's bow,50.0,0.0
+royal guard's claymore,72.0,0.0
+royal guard's shield,0.0,70.0
+royal guard's spear,32.0,0.0
+royal guard's sword,48.0,0.0
+royal halberd,26.0,0.0
+royal shield,0.0,55.0
+rusty broadsword,6.0,0.0
+rusty claymore,12.0,0.0
+rusty halberd,5.0,0.0
+rusty shield,0.0,3.0
+savage lynel bow,32.0,0.0
+savage lynel crusher,78.0,0.0
+savage lynel shield,0.0,62.0
+savage lynel spear,30.0,0.0
+savage lynel sword,58.0,0.0
+scimitar of the seven,32.0,0.0
+serpentine spear,12.0,0.0
+shield of the mind's eye,0.0,16.0
+shock arrow,,
+silver bow,15.0,0.0
+silver longsword,22.0,0.0
+silver shield,0.0,18.0
+silverscale spear,12.0,0.0
+soldier's bow,14.0,0.0
+soldier's broadsword,14.0,0.0
+soldier's claymore,20.0,0.0
+soldier's shield,0.0,16.0
+soldier's spear,7.0,0.0
+soup ladle,4.0,0.0
+spiked boko bat,18.0,0.0
+spiked boko bow,12.0,0.0
+spiked boko club,12.0,0.0
+spiked boko shield,10.0,0.0
+spiked boko spear,6.0,0.0
+spiked moblin club,27.0,0.0
+spiked moblin spear,9.0,0.0
+spring-loaded hammer,1.0,0.0
+steel lizal bow,36.0,0.0
+steel lizal shield,0.0,35.0
+stone smasher,42.0,0.0
+strengthened lizal bow,25.0,0.0
+swallow bow,9.0,0.0
+throwing spear,6.0,0.0
+thunderblade,22.0,0.0
+thunderspear,22.0,0.0
+thunderstorm rod,10.0,0.0
+torch,2.0,0.0
+traveler's bow,5.0,0.0
+traveler's claymore,10.0,0.0
+traveler's shield,0.0,4.0
+traveler's spear,3.0,0.0
+traveler's sword,5.0,0.0
+tree branch,2.0,0.0
+vicious sickle,16.0,0.0
+windcleaver,40.0,0.0
+woodcutter's axe,3.0,0.0
+wooden bow,4.0,0.0
+wooden mop,5.0,0.0
+wooden shield,0.0,2.0
+zora spear,9.0,0.0
+zora sword,15.0,0.0
