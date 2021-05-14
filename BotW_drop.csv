@@ -1,8 +1,4 @@
 id,drops,id
-161,,161
-109,moblin horn,109
-109,moblin fang,109
-109,moblin guts,109
 147,hinox toenail,147
 147,hinox tooth,147
 147,hinox guts,147
@@ -13,85 +9,51 @@ id,drops,id
 147,mighty bananas,147
 147,fortified pumpkin,147
 147,hearty durian,147
-94,octorok tentacle,94
-94,octo balloon,94
-94,octorok eyeball,94
-108,moblin horn,108
-108,moblin fang,108
-102,,102
-120,lizalfos horn,120
-120,lizalfos talon,120
-120,lizalfos tail,120
-120,amber,120
-120,opal,120
-120,topaz,120
-120,ruby,120
-120,sapphire,120
-120,diamond,120
-124,lynel horn,124
-124,lynel hoof,124
-124,lynel guts,124
-124,topaz,124
-124,ruby,124
-124,sapphire,124
-124,diamond,124
-124,star fragment,124
-86,white chuchu jelly,86
-97,,97
-153,,153
-111,moblin horn,111
-111,moblin fang,111
-110,moblin horn,110
-110,moblin fang,110
-110,moblin guts,110
-131,ancient screw,131
-131,ancient spring,131
-131,ancient gear,131
-131,ancient shaft,131
-115,lizalfos horn,115
-115,lizalfos talon,115
-115,lizalfos tail,115
-144,flint,144
-144,amber,144
-144,ruby,144
-152,treasures,152
-135,amber,135
-135,opal,135
-135,topaz,135
-135,ruby,135
-135,sapphire,135
-135,mighty bananas,135
-151,molduga fin,151
-151,molduga guts,151
-127,ancient screw,127
-127,ancient spring,127
-127,ancient gear,127
-127,ancient shaft,127
-127,ancient core,127
-127,giant ancient core,127
-145,flint,145
-145,amber,145
-145,sapphire,145
-99,,99
-132,ancient screw,132
-132,ancient spring,132
-132,ancient gear,132
-132,ancient shaft,132
-132,ancient core,132
-90,ice keese wing,90
-90,keese eyeball,90
-146,,146
+109,moblin horn,109
+109,moblin fang,109
+109,moblin guts,109
+139,flint,139
+139,amber,139
+139,opal,139
+139,luminous stone,139
+139,topaz,139
+139,diamond,139
+139,flint,139
+139,amber,139
+139,opal,139
+139,luminous stone,139
+139,topaz,139
+139,diamond,139
+139,flint,139
+139,amber,139
+139,opal,139
+139,luminous stone,139
+139,topaz,139
+139,diamond,139
+85,red chuchu jelly,85
+126,ancient screw,126
+126,ancient spring,126
+126,ancient gear,126
+126,ancient shaft,126
+126,ancient core,126
+126,giant ancient core,126
 95,octorok tentacle,95
 95,octo balloon,95
 95,octorok eyeball,95
-164,,164
-100,,100
 143,flint,143
 143,amber,143
 143,opal,143
-104,bokoblin horn,104
-104,bokoblin fang,104
-104,bokoblin guts,104
+133,ancient screw,133
+133,ancient spring,133
+133,ancient gear,133
+133,ancient shaft,133
+133,ancient core,133
+133,ancient screw,133
+133,ancient spring,133
+133,ancient gear,133
+133,ancient shaft,133
+133,ancient core,133
+84,chuchu jelly,84
 107,bokoblin horn,107
 107,bokoblin fang,107
 107,bokoblin guts,107
@@ -101,18 +63,12 @@ id,drops,id
 107,ruby,107
 107,sapphire,107
 107,diamond,107
-133,ancient screw,133
-133,ancient spring,133
-133,ancient gear,133
-133,ancient shaft,133
-133,ancient core,133
-126,ancient screw,126
-126,ancient spring,126
-126,ancient gear,126
-126,ancient shaft,126
-126,ancient core,126
-126,giant ancient core,126
-160,,160
+121,lynel horn,121
+121,lynel hoof,121
+121,lynel guts,121
+104,bokoblin horn,104
+104,bokoblin fang,104
+104,bokoblin guts,104
 149,hinox toenail,149
 149,hinox tooth,149
 149,hinox guts,149
@@ -122,31 +78,87 @@ id,drops,id
 149,roasted bird drumstick,149
 149,roasted bird thigh,149
 149,roasted whole bird,149
-140,flint,140
-140,amber,140
-140,opal,140
-140,topaz,140
-140,ruby,140
-140,sapphire,140
-140,diamond,140
-155,,155
-139,flint,139
-139,amber,139
-139,opal,139
-139,luminous stone,139
-139,topaz,139
-139,diamond,139
-159,,159
-156,,156
-84,chuchu jelly,84
 93,octorok tentacle,93
 93,octo balloon,93
 93,octorok eyeball,93
-141,flint,141
-141,opal,141
-141,ruby,141
-141,diamond,141
-87,yellow chuchu jelly,87
+108,moblin horn,108
+108,moblin fang,108
+108,moblin horn,108
+108,moblin fang,108
+124,lynel horn,124
+124,lynel hoof,124
+124,lynel guts,124
+124,topaz,124
+124,ruby,124
+124,sapphire,124
+124,diamond,124
+124,star fragment,124
+120,lizalfos horn,120
+120,lizalfos talon,120
+120,lizalfos tail,120
+120,amber,120
+120,opal,120
+120,topaz,120
+120,ruby,120
+120,sapphire,120
+120,diamond,120
+86,white chuchu jelly,86
+86,white chuchu jelly,86
+110,moblin horn,110
+110,moblin fang,110
+110,moblin guts,110
+110,moblin horn,110
+110,moblin fang,110
+110,moblin guts,110
+153,,153
+151,molduga fin,151
+151,molduga guts,151
+151,molduga fin,151
+151,molduga guts,151
+94,octorok tentacle,94
+94,octo balloon,94
+94,octorok eyeball,94
+111,moblin horn,111
+111,moblin fang,111
+132,ancient screw,132
+132,ancient spring,132
+132,ancient gear,132
+132,ancient shaft,132
+132,ancient core,132
+132,ancient screw,132
+132,ancient spring,132
+132,ancient gear,132
+132,ancient shaft,132
+132,ancient core,132
+115,lizalfos horn,115
+115,lizalfos talon,115
+115,lizalfos tail,115
+152,treasures,152
+131,ancient screw,131
+131,ancient spring,131
+131,ancient gear,131
+131,ancient shaft,131
+135,amber,135
+135,opal,135
+135,topaz,135
+135,ruby,135
+135,sapphire,135
+135,mighty bananas,135
+144,flint,144
+144,amber,144
+144,ruby,144
+90,ice keese wing,90
+90,keese eyeball,90
+145,flint,145
+145,amber,145
+145,sapphire,145
+155,,155
+127,ancient screw,127
+127,ancient spring,127
+127,ancient gear,127
+127,ancient shaft,127
+127,ancient core,127
+127,giant ancient core,127
 118,lizalfos horn,118
 118,lizalfos talon,118
 118,icy lizalfos tail,118
@@ -162,21 +174,40 @@ id,drops,id
 148,sneaky river escargot,148
 148,blueshell escargot,148
 148,blackened crab,148
-85,red chuchu jelly,85
-121,lynel horn,121
-121,lynel hoof,121
-121,lynel guts,121
-116,lizalfos horn,116
-116,lizalfos talon,116
+148,hinox toenail,148
+148,hinox tooth,148
+148,hinox guts,148
+148,roasted bass,148
+148,roasted hearty bass,148
+148,roasted hearty salmon,148
+148,roasted trout,148
+148,roasted carp,148
+148,roasted porgy,148
+148,sneaky river escargot,148
+148,blueshell escargot,148
+148,blackened crab,148
 142,flint,142
 142,opal,142
 142,sapphire,142
 142,diamond,142
-138,flint,138
-138,amber,138
-138,opal,138
-138,ruby,138
-157,,157
+140,flint,140
+140,amber,140
+140,opal,140
+140,topaz,140
+140,ruby,140
+140,sapphire,140
+140,diamond,140
+116,lizalfos horn,116
+116,lizalfos talon,116
+141,flint,141
+141,opal,141
+141,ruby,141
+141,diamond,141
+141,flint,141
+141,opal,141
+141,ruby,141
+141,diamond,141
+87,yellow chuchu jelly,87
 125,ancient screw,125
 125,ancient spring,125
 125,ancient gear,125
@@ -185,23 +216,15 @@ id,drops,id
 125,giant ancient core,125
 106,bokoblin horn,106
 106,bokoblin fang,106
-101,,101
+106,bokoblin horn,106
+106,bokoblin fang,106
 128,ancient screw,128
 128,ancient spring,128
 128,ancient gear,128
 128,ancient shaft,128
 128,ancient core,128
-119,lizalfos horn,119
-119,lizalfos tail,119
-119,yellow lizalfos tail,119
-122,lynel horn,122
-122,lynel hoof,122
-122,lynel guts,122
 103,bokoblin horn,103
 103,bokoblin fang,103
-114,lizalfos horn,114
-114,lizalfos talon,114
-114,lizalfos tail,114
 112,moblin horn,112
 112,moblin fang,112
 112,moblin guts,112
@@ -211,23 +234,48 @@ id,drops,id
 112,ruby,112
 112,sapphire,112
 112,diamond,112
-136,,136
-137,,137
+122,lynel horn,122
+122,lynel hoof,122
+122,lynel guts,122
+122,lynel horn,122
+122,lynel hoof,122
+122,lynel guts,122
+122,lynel horn,122
+122,lynel hoof,122
+122,lynel guts,122
 113,lizalfos horn,113
 113,lizalfos talon,113
 88,keese wing,88
 88,keese eyeball,88
-150,hinox tooth,150
-158,,158
-98,,98
-162,,162
-163,,163
+88,keese wing,88
+88,keese eyeball,88
+88,keese wing,88
+88,keese eyeball,88
+138,flint,138
+138,amber,138
+138,opal,138
+138,ruby,138
+138,flint,138
+138,amber,138
+138,opal,138
+138,ruby,138
+138,flint,138
+138,amber,138
+138,opal,138
+138,ruby,138
+138,flint,138
+138,amber,138
+138,opal,138
+138,ruby,138
+119,lizalfos horn,119
+119,lizalfos tail,119
+119,yellow lizalfos tail,119
 154,,154
 89,fire keese wing,89
 89,keese eyeball,89
-105,bokoblin horn,105
-105,bokoblin fang,105
-105,bokoblin guts,105
+114,lizalfos horn,114
+114,lizalfos talon,114
+114,lizalfos tail,114
 134,green rupee,134
 134,blue rupee,134
 134,red rupee,134
@@ -236,8 +284,12 @@ id,drops,id
 123,lynel horn,123
 123,lynel hoof,123
 123,lynel guts,123
+150,hinox tooth,150
 130,ancient screw,130
 130,ancient spring,130
+105,bokoblin horn,105
+105,bokoblin fang,105
+105,bokoblin guts,105
 117,lizalfos horn,117
 117,lizalfos talon,117
 117,red lizalfos tail,117
