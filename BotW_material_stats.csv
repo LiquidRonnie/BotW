@@ -1,37 +1,37 @@
 name,hearts_recovered,cooking_effect
 rushroom,0.5,speed up
-zapshroom,0.5,shock resistance
-electric safflina,0.0,shock resistance
-swift violet,0.0,speed up
-hyrule herb,1.0,none
-voltfruit,0.5,shock resistance
-endura shroom,1.0,extra stamina
-ironshroom,0.5,defense up
-stamella shroom,0.5,stamina recovery
-big hearty radish,4.0,extra hearts
-fleet-lotus seeds,0.5,speed up
-blue nightshade,0.0,stealth up
-swift carrot,0.5,speed up
-mighty bananas,0.5,attack up
-cool safflina,0.0,heat resistance
-hearty radish,20.5,extra hearts
-hearty durian,3.0,extra hearts
-palm fruit,1.0,none
-spicy pepper,0.5,cold resistance
-sunshroom,0.5,cold resistance
-razorshroom,0.5,attack up
-wildberry,0.5,none
-silent princess,0.0,stealth up
-armoranth,0.0,defense up
-big hearty truffle,3.0,extra hearts
-hearty truffle,2.0,extra hearts
 chillshroom,0.5,heat resistance
-endura carrot,2.0,extra stamina
-courser bee honey,2.0,stamina recovery
-hydromelon,0.5,heat resistance
-hylian shroom,0.5,none
 mighty thistle,0.0,attack up
+zapshroom,0.5,shock resistance
 warm safflina,0.0,cold resistance
+voltfruit,0.5,shock resistance
+hyrule herb,1.0,none
+swift violet,0.0,speed up
+endura shroom,1.0,extra stamina
+fleet-lotus seeds,0.5,speed up
+big hearty radish,4.0,extra hearts
+ironshroom,0.5,defense up
+electric safflina,0.0,shock resistance
+big hearty truffle,3.0,extra hearts
+wildberry,0.5,none
+palm fruit,1.0,none
+razorshroom,0.5,attack up
+hearty radish,20.5,extra hearts
+swift carrot,0.5,speed up
+blue nightshade,0.0,stealth up
+sunshroom,0.5,cold resistance
+cool safflina,0.0,heat resistance
+mighty bananas,0.5,attack up
+spicy pepper,0.5,cold resistance
+armoranth,0.0,defense up
+hearty truffle,2.0,extra hearts
+silent princess,0.0,stealth up
+hearty durian,3.0,extra hearts
+endura carrot,2.0,extra stamina
+hydromelon,0.5,heat resistance
+stamella shroom,0.5,stamina recovery
+hylian shroom,0.5,none
+courser bee honey,2.0,stamina recovery
 silent shroom,0.5,stealth up
 apple,0.5,none
 fortified pumpkin,0.5,defense up
