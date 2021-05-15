@@ -1,37 +1,37 @@
 name,hearts_recovered,cooking_effect
-rushroom,0.5,speed up
-chillshroom,0.5,heat resistance
-mighty thistle,0.0,attack up
-zapshroom,0.5,shock resistance
-warm safflina,0.0,cold resistance
-voltfruit,0.5,shock resistance
-hyrule herb,1.0,none
-swift violet,0.0,speed up
-endura shroom,1.0,extra stamina
-fleet-lotus seeds,0.5,speed up
-big hearty radish,4.0,extra hearts
-ironshroom,0.5,defense up
 electric safflina,0.0,shock resistance
-big hearty truffle,3.0,extra hearts
-wildberry,0.5,none
-palm fruit,1.0,none
-razorshroom,0.5,attack up
-hearty radish,20.5,extra hearts
-swift carrot,0.5,speed up
-blue nightshade,0.0,stealth up
-sunshroom,0.5,cold resistance
-cool safflina,0.0,heat resistance
-mighty bananas,0.5,attack up
-spicy pepper,0.5,cold resistance
-armoranth,0.0,defense up
-hearty truffle,2.0,extra hearts
-silent princess,0.0,stealth up
-hearty durian,3.0,extra hearts
-endura carrot,2.0,extra stamina
-hydromelon,0.5,heat resistance
+swift violet,0.0,speed up
+rushroom,0.5,speed up
+big hearty radish,4.0,extra hearts
+zapshroom,0.5,shock resistance
+hyrule herb,1.0,none
 stamella shroom,0.5,stamina recovery
+chillshroom,0.5,heat resistance
+ironshroom,0.5,defense up
+fleet-lotus seeds,0.5,speed up
+hearty radish,20.5,extra hearts
+voltfruit,0.5,shock resistance
+mighty thistle,0.0,attack up
+endura shroom,1.0,extra stamina
+warm safflina,0.0,cold resistance
+blue nightshade,0.0,stealth up
+palm fruit,1.0,none
+wildberry,0.5,none
+silent princess,0.0,stealth up
+armoranth,0.0,defense up
+swift carrot,0.5,speed up
+spicy pepper,0.5,cold resistance
+sunshroom,0.5,cold resistance
+mighty bananas,0.5,attack up
+cool safflina,0.0,heat resistance
+hearty durian,3.0,extra hearts
+razorshroom,0.5,attack up
+big hearty truffle,3.0,extra hearts
+hearty truffle,2.0,extra hearts
 hylian shroom,0.5,none
+endura carrot,2.0,extra stamina
 courser bee honey,2.0,stamina recovery
-silent shroom,0.5,stealth up
+hydromelon,0.5,heat resistance
 apple,0.5,none
+silent shroom,0.5,stealth up
 fortified pumpkin,0.5,defense up
