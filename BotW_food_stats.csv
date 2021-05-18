@@ -1,37 +1,109 @@
 name,hearts_recovered,cooking_effect
 armored carp,1,defense up
+armored carp,1,defense up
+armored carp,1,defense up
+armored porgy,1,defense up
+armored porgy,1,defense up
 armored porgy,1,defense up
 bladed rhino beetle,0,attack up
+bladed rhino beetle,0,attack up
+bladed rhino beetle,0,attack up
+bright-eyed crab,1,stamina recovery
+bright-eyed crab,1,stamina recovery
 bright-eyed crab,1,stamina recovery
 chillfin trout,1,heat resistance
+chillfin trout,1,heat resistance
+chillfin trout,1,heat resistance
+cold darner,0,heat resistance
+cold darner,0,heat resistance
 cold darner,0,heat resistance
 electric darner,0,shock resistance
+electric darner,0,shock resistance
+electric darner,0,shock resistance
+energetic rhino beetle,0,stamina recovery
+energetic rhino beetle,0,stamina recovery
 energetic rhino beetle,0,stamina recovery
 fairy,5,none
+fairy,5,none
+fairy,5,none
+fireproof lizard,0,flame guard
+fireproof lizard,0,flame guard
 fireproof lizard,0,flame guard
 hearty bass,2,extra hearts
+hearty bass,2,extra hearts
+hearty bass,2,extra hearts
+hearty blueshell snail,1,extra hearts
+hearty blueshell snail,1,extra hearts
 hearty blueshell snail,1,extra hearts
 hearty lizard,0,extra hearts
+hearty lizard,0,extra hearts
+hearty lizard,0,extra hearts
+hearty salmon,4,extra hearts
+hearty salmon,4,extra hearts
 hearty salmon,4,extra hearts
 hightail lizard,0,speed up
+hightail lizard,0,speed up
+hightail lizard,0,speed up
+hot-footed frog,0,speed up
+hot-footed frog,0,speed up
 hot-footed frog,0,speed up
 hyrule bass,1,none
+hyrule bass,1,none
+hyrule bass,1,none
+ironshell crab,1,defense up
+ironshell crab,1,defense up
 ironshell crab,1,defense up
 mighty carp,1,attack up
+mighty carp,1,attack up
+mighty carp,1,attack up
+mighty porgy,1,attack up
+mighty porgy,1,attack up
 mighty porgy,1,attack up
 razorclaw crab,1,attack up
+razorclaw crab,1,attack up
+razorclaw crab,1,attack up
+restless cricket,0,stamina recovery
+restless cricket,0,stamina recovery
 restless cricket,0,stamina recovery
 rugged rhino beetle,0,defense up
+rugged rhino beetle,0,defense up
+rugged rhino beetle,0,defense up
+sanke carp,1,none
+sanke carp,1,none
 sanke carp,1,none
 sizzlefin trout,1,cold resistance
+sizzlefin trout,1,cold resistance
+sizzlefin trout,1,cold resistance
+smotherwing butterfly,0,flame guard
+smotherwing butterfly,0,flame guard
 smotherwing butterfly,0,flame guard
 sneaky river snail,1,stealth up
+sneaky river snail,1,stealth up
+sneaky river snail,1,stealth up
+staminoka bass,1,stamina recovery
+staminoka bass,1,stamina recovery
 staminoka bass,1,stamina recovery
 stealthfin trout,1,stealth up
+stealthfin trout,1,stealth up
+stealthfin trout,1,stealth up
+summerwing butterfly,0,cold resistance
+summerwing butterfly,0,cold resistance
 summerwing butterfly,0,cold resistance
 sunset firefly,0,stealth up
+sunset firefly,0,stealth up
+sunset firefly,0,stealth up
+thunderwing butterfly,0,shock resistance
+thunderwing butterfly,0,shock resistance
 thunderwing butterfly,0,shock resistance
 tireless frog,0,extra stamina
+tireless frog,0,extra stamina
+tireless frog,0,extra stamina
+voltfin trout,1,shock resistance
+voltfin trout,1,shock resistance
 voltfin trout,1,shock resistance
 warm darner,0,cold resistance
+warm darner,0,cold resistance
+warm darner,0,cold resistance
+winterwing butterfly,0,heat resistance
+winterwing butterfly,0,heat resistance
 winterwing butterfly,0,heat resistance
