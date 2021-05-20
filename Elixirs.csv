@@ -1,0 +1,12 @@
+name,subclass,description,ingredients,effect
+Tough Elixir,Elixir,"Grants a X-level toughness effect, which fortifies your bones to strengthen your defense. Best to use before facing off against hard-hitting enemies.",Rugged Rhino Beetle,Tough
+Spicy Elixir,Elixir,"Warms your body from its core, increasing your resistance to cold environments. Very useful in the snow-covered mountains.","Summerwing Butterfly,Warm Darner",Spicy
+Sneaky Elixir,Elixir,"Grants a X-level stealth effect, which calms the nerves and silences footfalls. Allows you to move about undetected by monsters and animals.",Sunset Firefly,Sneaky
+Mighty Elixir,Elixir,"Grants a might effect, which strengthens your body and mind to boost your attack power with all weapons.","Bladed Rhino Beetle,Mighty Bananas,Monster Part",Mighty
+Hearty Elixir,Elixir,Restores you to full health and increases your maximum hearts. The additional hearts are lost as you take damage.,Hearty Lizard,Hearty
+Hasty Elixir,Elixir,"Grants a X-level haste effect, which boosts your movement speed while running, swimming, or climbing.","Hightail Lizard,Hot-Footed Frog",Hasty
+Fireproof Elixir,Elixir,"Grants a fireproof effect, which prevents your body from catching fire. Be sure to pack this when venturing out to explore Death Mountain.","Fireproof Lizard,Smotherwing Butterfly",Fireproof
+Energizing Elixir,Elixir,"Restores your Stamina, which is used when performing physical actions such as climbing walls and swimming.","Restless Cricket,Energetic Rhino Beetle",Energizing
+Enduring Elixir,Elixir,Restores stamina and temporarily extends your Stamina Wheel. The additional stamina will disappear as it's used.,Tireless Frog,Enduring
+Electro Elixir,Elixir,Grants a X-level resistance to electricity. Useful against enemies with electrical attacks.,"Thunderwing Butterfly,Electric Darner",Electro
+Chilly Elixir,Elixir,"Grants a X-level cooling effect, raising your body's resistance to heat. Crucial for long journeys through the desert.","Winterwing Butterfly,Cold Darner",Chilly
