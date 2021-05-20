@@ -3,58 +3,58 @@ hearty radish,20.5,extra hearts
 fairy,5.0,none
 big hearty radish,4.0,extra hearts
 hearty salmon,4.0,extra hearts
-hearty durian,3.0,extra hearts
 big hearty truffle,3.0,extra hearts
+hearty durian,3.0,extra hearts
 courser bee honey,2.0,stamina recovery
 endura carrot,2.0,extra stamina
 hearty bass,2.0,extra hearts
 hearty truffle,2.0,extra hearts
 staminoka bass,1.0,stamina recovery
 mighty porgy,1.0,attack up
-palm fruit,1.0,none
 armored porgy,1.0,defense up
-armored carp,1.0,defense up
-bright-eyed crab,1.0,stamina recovery
 chillfin trout,1.0,heat resistance
+bright-eyed crab,1.0,stamina recovery
+hyrule herb,1.0,none
+sneaky river snail,1.0,stealth up
 sizzlefin trout,1.0,cold resistance
 sanke carp,1.0,none
 hearty blueshell snail,1.0,extra hearts
 razorclaw crab,1.0,attack up
 hyrule bass,1.0,none
 ironshell crab,1.0,defense up
-sneaky river snail,1.0,stealth up
-mighty carp,1.0,attack up
+palm fruit,1.0,none
+armored carp,1.0,defense up
 stealthfin trout,1.0,stealth up
 voltfin trout,1.0,shock resistance
-hyrule herb,1.0,none
 endura shroom,1.0,extra stamina
-stamella shroom,0.5,stamina recovery
-fleet-lotus seeds,0.5,speed up
-rushroom,0.5,speed up
-zapshroom,0.5,shock resistance
-voltfruit,0.5,shock resistance
-wildberry,0.5,none
-spicy pepper,0.5,cold resistance
-ironshroom,0.5,defense up
-sunshroom,0.5,cold resistance
-chillshroom,0.5,heat resistance
-fortified pumpkin,0.5,defense up
+mighty carp,1.0,attack up
 razorshroom,0.5,attack up
+sunshroom,0.5,cold resistance
+voltfruit,0.5,shock resistance
+rushroom,0.5,speed up
+chillshroom,0.5,heat resistance
+spicy pepper,0.5,cold resistance
+fleet-lotus seeds,0.5,speed up
+hydromelon,0.5,heat resistance
+ironshroom,0.5,defense up
 mighty bananas,0.5,attack up
 swift carrot,0.5,speed up
-hydromelon,0.5,heat resistance
-apple,0.5,none
+wildberry,0.5,none
+zapshroom,0.5,shock resistance
+fortified pumpkin,0.5,defense up
 silent shroom,0.5,stealth up
+apple,0.5,none
+stamella shroom,0.5,stamina recovery
 hylian shroom,0.5,none
+summerwing butterfly,0.0,cold resistance
+sunset firefly,0.0,stealth up
 thunderwing butterfly,0.0,shock resistance
 tireless frog,0.0,extra stamina
-smotherwing butterfly,0.0,flame guard
 rugged rhino beetle,0.0,defense up
-sunset firefly,0.0,stealth up
 restless cricket,0.0,stamina recovery
 warm darner,0.0,cold resistance
-summerwing butterfly,0.0,cold resistance
-blue nightshade,0.0,stealth up
+smotherwing butterfly,0.0,flame guard
+electric safflina,0.0,shock resistance
 hot-footed frog,0.0,speed up
 hightail lizard,0.0,speed up
 hearty lizard,0.0,extra hearts
@@ -64,10 +64,10 @@ electric darner,0.0,shock resistance
 cold darner,0.0,heat resistance
 bladed rhino beetle,0.0,attack up
 armoranth,0.0,defense up
-silent princess,0.0,stealth up
 cool safflina,0.0,heat resistance
-swift violet,0.0,speed up
-warm safflina,0.0,cold resistance
-electric safflina,0.0,shock resistance
+silent princess,0.0,stealth up
+blue nightshade,0.0,stealth up
 mighty thistle,0.0,attack up
+warm safflina,0.0,cold resistance
+swift violet,0.0,speed up
 winterwing butterfly,0.0,heat resistance
