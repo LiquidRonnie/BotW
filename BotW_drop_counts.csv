@@ -1,67 +1,67 @@
 id,name,drop_count
-120,silver lizalfos,27.0
-112,silver moblin,18.0
-140,stone talus (rare),14.0
+138,stone talus,20.0
+125,guardian stalker,12.0
 148,blue hinox,12.0
+126,guardian skywatcher,12.0
+134,yiga footsoldier,10.0
 147,hinox,10.0
-107,silver bokoblin,9.0
 149,black hinox,9.0
+107,silver bokoblin,9.0
+120,silver lizalfos,9.0
+112,silver moblin,9.0
+110,black moblin,9.0
+104,blue bokoblin,9.0
 96,treasure octorok,8.0
-111,stalmoblin,8.0
 124,silver lynel,8.0
-138,stone talus,8.0
-110,black moblin,6.0
+140,stone talus (rare),7.0
 139,stone talus (luminous),6.0
-145,frost pebblit,6.0
-127,guardian turret,6.0
-125,guardian stalker,6.0
-126,guardian skywatcher,6.0
+143,stone pebblit,6.0
 135,yiga blademaster,6.0
-133,guardian scout iv,5.0
+95,snow octorok,6.0
+122,blue-maned lynel,6.0
+127,guardian turret,6.0
+145,frost pebblit,6.0
 132,guardian scout iii,5.0
-134,yiga footsoldier,5.0
 128,sentry,5.0
+133,guardian scout iv,5.0
 142,frost talus,4.0
 131,guardian scout ii,4.0
-106,stalkoblin,4.0
 129,decayed guardian,4.0
-90,ice keese,4.0
-154,naydra,4.0
-108,moblin,4.0
 141,igneo talus,4.0
+111,stalmoblin,4.0
+88,keese,4.0
+123,white-maned lynel,3.0
+92,water octorok,3.0
 94,rock octorok,3.0
 121,lynel,3.0
-95,snow octorok,3.0
-143,stone pebblit,3.0
-92,water octorok,3.0
-123,white-maned lynel,3.0
 105,black bokoblin,3.0
 144,igneo pebblit,3.0
-115,black lizalfos,3.0
-104,blue bokoblin,3.0
 118,ice-breath lizalfos,3.0
+115,black lizalfos,3.0
 114,blue lizalfos,3.0
+109,blue moblin,3.0
+119,electric lizalfos,3.0
 93,forest octorok,3.0
 117,fire-breath lizalfos,3.0
-109,blue moblin,3.0
-122,blue-maned lynel,3.0
-119,electric lizalfos,3.0
 113,lizalfos,2.0
-91,electric keese,2.0
 103,bokoblin,2.0
-87,electric chuchu,2.0
+91,electric keese,2.0
+106,stalkoblin,2.0
 116,stalizalfos,2.0
-88,keese,2.0
-155,farosh,2.0
+86,ice chuchu,2.0
 89,fire keese,2.0
 130,guardian scout i,2.0
+90,ice keese,2.0
 151,molduga,2.0
+108,moblin,2.0
+85,fire chuchu,1.0
 150,stalnox,1.0
+87,electric chuchu,1.0
 153,dinraal,1.0
 84,chuchu,1.0
-85,fire chuchu,1.0
+154,naydra,1.0
 152,molduking,1.0
-86,ice chuchu,1.0
+155,farosh,1.0
 101,blizzrobe,
 163,calamity ganon,
 156,cursed bokoblin,
