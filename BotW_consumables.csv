@@ -3,71 +3,71 @@ hearty radish,20.5,extra hearts
 fairy,5.0,none
 hearty salmon,4.0,extra hearts
 big hearty radish,4.0,extra hearts
-big hearty truffle,3.0,extra hearts
 hearty durian,3.0,extra hearts
+big hearty truffle,3.0,extra hearts
 courser bee honey,2.0,stamina recovery
+endura carrot,2.0,extra stamina
 hearty truffle,2.0,extra hearts
 hearty bass,2.0,extra hearts
-endura carrot,2.0,extra stamina
-razorclaw crab,1.0,attack up
-chillfin trout,1.0,heat resistance
-voltfin trout,1.0,shock resistance
-hyrule herb,1.0,none
-endura shroom,1.0,extra stamina
-armored porgy,1.0,defense up
-stealthfin trout,1.0,stealth up
-bright-eyed crab,1.0,stamina recovery
-palm fruit,1.0,none
-sanke carp,1.0,none
-staminoka bass,1.0,stamina recovery
-sneaky river snail,1.0,stealth up
-sizzlefin trout,1.0,cold resistance
-hearty blueshell snail,1.0,extra hearts
 hyrule bass,1.0,none
-ironshell crab,1.0,defense up
+armored porgy,1.0,defense up
+bright-eyed crab,1.0,stamina recovery
+chillfin trout,1.0,heat resistance
+palm fruit,1.0,none
+hearty blueshell snail,1.0,extra hearts
+armored carp,1.0,defense up
 mighty carp,1.0,attack up
 mighty porgy,1.0,attack up
-armored carp,1.0,defense up
+razorclaw crab,1.0,attack up
+endura shroom,1.0,extra stamina
+hyrule herb,1.0,none
+sanke carp,1.0,none
+sizzlefin trout,1.0,cold resistance
+sneaky river snail,1.0,stealth up
+staminoka bass,1.0,stamina recovery
+stealthfin trout,1.0,stealth up
+voltfin trout,1.0,shock resistance
+ironshell crab,1.0,defense up
+hylian shroom,0.5,none
 apple,0.5,none
 fortified pumpkin,0.5,defense up
-silent shroom,0.5,stealth up
+rushroom,0.5,speed up
+spicy pepper,0.5,cold resistance
+mighty bananas,0.5,attack up
 chillshroom,0.5,heat resistance
 zapshroom,0.5,shock resistance
-razorshroom,0.5,attack up
-hylian shroom,0.5,none
-rushroom,0.5,speed up
-voltfruit,0.5,shock resistance
-spicy pepper,0.5,cold resistance
-sunshroom,0.5,cold resistance
-wildberry,0.5,none
-hydromelon,0.5,heat resistance
-fleet-lotus seeds,0.5,speed up
-swift carrot,0.5,speed up
 ironshroom,0.5,defense up
-mighty bananas,0.5,attack up
 stamella shroom,0.5,stamina recovery
-electric safflina,0.0,shock resistance
-smotherwing butterfly,0.0,flame guard
-blue nightshade,0.0,stealth up
-rugged rhino beetle,0.0,defense up
-summerwing butterfly,0.0,cold resistance
-sunset firefly,0.0,stealth up
-thunderwing butterfly,0.0,shock resistance
-tireless frog,0.0,extra stamina
-warm darner,0.0,cold resistance
+voltfruit,0.5,shock resistance
+fleet-lotus seeds,0.5,speed up
+wildberry,0.5,none
+sunshroom,0.5,cold resistance
+silent shroom,0.5,stealth up
+hydromelon,0.5,heat resistance
+razorshroom,0.5,attack up
+swift carrot,0.5,speed up
+energetic rhino beetle,0.0,stamina recovery
 warm safflina,0.0,cold resistance
-silent princess,0.0,stealth up
-restless cricket,0.0,stamina recovery
+warm darner,0.0,cold resistance
+electric safflina,0.0,shock resistance
+tireless frog,0.0,extra stamina
+thunderwing butterfly,0.0,shock resistance
+sunset firefly,0.0,stealth up
+summerwing butterfly,0.0,cold resistance
+mighty thistle,0.0,attack up
 swift violet,0.0,speed up
+smotherwing butterfly,0.0,flame guard
+restless cricket,0.0,stamina recovery
+rugged rhino beetle,0.0,defense up
+electric darner,0.0,shock resistance
+bladed rhino beetle,0.0,attack up
+cold darner,0.0,heat resistance
+blue nightshade,0.0,stealth up
 hot-footed frog,0.0,speed up
 hightail lizard,0.0,speed up
+silent princess,0.0,stealth up
 hearty lizard,0.0,extra hearts
 cool safflina,0.0,heat resistance
-fireproof lizard,0.0,flame guard
-energetic rhino beetle,0.0,stamina recovery
-electric darner,0.0,shock resistance
-cold darner,0.0,heat resistance
 armoranth,0.0,defense up
-bladed rhino beetle,0.0,attack up
-mighty thistle,0.0,attack up
+fireproof lizard,0.0,flame guard
 winterwing butterfly,0.0,heat resistance
