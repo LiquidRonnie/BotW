@@ -1,37 +1,37 @@
 name,hearts_recovered,cooking_effect
 rushroom,0.5,speed up
-chillshroom,0.5,heat resistance
+hearty radish,20.5,extra hearts
 mighty thistle,0.0,attack up
 electric safflina,0.0,shock resistance
+chillshroom,0.5,heat resistance
+warm safflina,0.0,cold resistance
+ironshroom,0.5,defense up
+stamella shroom,0.5,stamina recovery
 zapshroom,0.5,shock resistance
-blue nightshade,0.0,stealth up
+swift violet,0.0,speed up
+voltfruit,0.5,shock resistance
+hyrule herb,1.0,none
+endura shroom,1.0,extra stamina
 sunshroom,0.5,cold resistance
 wildberry,0.5,none
+blue nightshade,0.0,stealth up
 silent princess,0.0,stealth up
-hearty durian,3.0,extra hearts
+armoranth,0.0,defense up
+mighty bananas,0.5,attack up
+fleet-lotus seeds,0.5,speed up
+swift carrot,0.5,speed up
 cool safflina,0.0,heat resistance
 hearty truffle,2.0,extra hearts
-mighty bananas,0.5,attack up
-swift carrot,0.5,speed up
-voltfruit,0.5,shock resistance
-swift violet,0.0,speed up
-warm safflina,0.0,cold resistance
-armoranth,0.0,defense up
-fleet-lotus seeds,0.5,speed up
-endura shroom,1.0,extra stamina
-ironshroom,0.5,defense up
-hyrule herb,1.0,none
-big hearty radish,4.0,extra hearts
-stamella shroom,0.5,stamina recovery
-hearty radish,20.5,extra hearts
-big hearty truffle,3.0,extra hearts
 razorshroom,0.5,attack up
 palm fruit,1.0,none
+hearty durian,3.0,extra hearts
 spicy pepper,0.5,cold resistance
-courser bee honey,2.0,stamina recovery
+big hearty radish,4.0,extra hearts
+big hearty truffle,3.0,extra hearts
 hylian shroom,0.5,none
 endura carrot,2.0,extra stamina
-apple,0.5,none
+courser bee honey,2.0,stamina recovery
 hydromelon,0.5,heat resistance
 silent shroom,0.5,stealth up
+apple,0.5,none
 fortified pumpkin,0.5,defense up
